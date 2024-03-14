@@ -9,7 +9,7 @@
 - I am just a confused junior Electric and Electronics Engineering student in Bilkent University. I like doing stuff. Thank you.
 
 - note: this is the new profile, please migrate old stuff back here!
-- 
+  
 <!---
 emirhan-Y/emirhan-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
