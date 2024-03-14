@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing random projects
 - 🌱 I’m currently learning statistics, machine learning and embedded programming
 - 💞️ I’m looking to collaborate on nothin
-- 📫 How to reach me just email me if you want (no)
+- 📫 How to reach me just email me if you want to (no)
 - 😄 Pronouns: attack (he)licopter
 - ⚡ Fun fact: i geniuinely fear i became dumber since i started these projects
 
